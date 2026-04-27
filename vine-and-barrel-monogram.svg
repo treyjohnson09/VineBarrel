@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Vine & Barrel monogram">
+  <defs>
+    <style>
+      .bg { fill:#1F1A17; }
+      .vine { font: 220px "Playfair Display", "Georgia", serif; fill:#F5F3F1; }
+      .bar { font: 200px "Bitter", "Georgia", serif; fill:#F5F3F1; }
+    </style>
+  </defs>
+
+  <circle cx="256" cy="256" r="250" class="bg"/>
+  <text x="124" y="360" class="vine">V</text>
+  <text x="260" y="360" class="bar">B</text>
+</svg>
